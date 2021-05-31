@@ -1,0 +1,11 @@
+{
+  "name": "Random ID generator test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Szsz1987/Random-ID-generator-test.git",
+  "author": "Szymon <sszulinski@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@szymonio1987/random-id-generator": "^1.0.0"
+  }
+}
